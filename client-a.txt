@@ -1,4 +1,15 @@
 # Client Task A #
 # Add your pseudocode to this file below this line: #
+
+Choose random number (1-10)
+let person select a number (1-10)
+
+If same,
+  print("You got it!") and end;
+else
+  print("Try again!") and return to person select;
+end else loop after 3 times and print ("You lose!")
+
+
 # ------------------------------------------------- #
 
