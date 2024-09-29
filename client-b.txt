@@ -1,4 +1,13 @@
 # Client Task B #
 # Add your pseudocode to this file below this line: #
+
+Begin importing google map geolocation information
+  set perimeter points at the corners
+    sync perimeter points with geolocation information
+
+import this data into handheld device with geolocation tracking on it
+sync handheld device coordinates with main console every 5 seconds to capture movement
+  store movements on the main console to create a route on the map
+
 # ------------------------------------------------- #
 
