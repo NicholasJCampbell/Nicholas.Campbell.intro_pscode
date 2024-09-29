@@ -1,4 +1,19 @@
 # Client Task C #
 # Add your pseudocode to this file below this line: #
+
+set scanner counting interval to two
+If count count is < 50
+  continue to next box
+else
+  begin completion process
+
+#completion process code
+For completion process,
+  pause conveyor belt
+  close case
+  remove closed case
+  open new case
+  restart conveyor belt
+  begin scanning
 # ------------------------------------------------- #
 
